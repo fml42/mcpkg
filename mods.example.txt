@@ -1,0 +1,13 @@
+#####################
+# EXAMPLE MODS LIST #
+#####################
+
+# filter directives:
+@version=1.19.3
+@loader=fabric
+
+# mod list (link or 'source:slug'):
+https://modrinth.com/mod/betterf3
+https://curseforge.com/minecraft/mc-mods/worldedit
+modrinth:sodium
+curseforge:litematica

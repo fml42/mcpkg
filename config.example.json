@@ -1,0 +1,5 @@
+{
+	"curseforge_token": "-- paste your curseforge api key here --",
+	"version": "0.1",
+	"modrinth_user_agent": "fml42/mcpkg/{version} python/{python_version} (github.com/fml42)"
+}
